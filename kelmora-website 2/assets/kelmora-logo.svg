@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">Kelmora mark</title>
+  <rect width="108" height="108" rx="30" fill="#CC7859"/>
+  <path d="M32 74C41 54 47 54 54 36 61 54 67 54 76 74" fill="none" stroke="#F7EFE3" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="54" cy="36" r="4.2" fill="#F7EFE3"/>
+</svg>
